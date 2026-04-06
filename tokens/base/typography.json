@@ -1,0 +1,33 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "typography": {
+    "body": {
+      "body-1": {
+        "value": "400 16px/24px Inter",
+        "type": "typography"
+      },
+      "body-2": {
+        "value": "500 14px/20px Inter",
+        "type": "typography"
+      },
+      "body-3": {
+        "value": "400 12px/16px Inter",
+        "type": "typography"
+      }
+    },
+    "heading": {
+      "heading-1": {
+        "value": "600 36px/44px Inter",
+        "type": "typography"
+      },
+      "heading-2": {
+        "value": "600 28px/36px Inter",
+        "type": "typography"
+      },
+      "heading-3": {
+        "value": "600 18px/28px Inter",
+        "type": "typography"
+      }
+    }
+  }
+}
