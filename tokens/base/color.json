@@ -1,0 +1,252 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "color": {
+    "base": {
+      "gray": {
+        "200": {
+          "value": "#f6f7f9",
+          "type": "color"
+        },
+        "300": {
+          "value": "#e6e8ef",
+          "type": "color"
+        },
+        "500": {
+          "value": "#c6ccdb",
+          "type": "color"
+        },
+        "600": {
+          "value": "#7f8594",
+          "type": "color"
+        },
+        "700": {
+          "value": "#606981",
+          "type": "color"
+        }
+      },
+      "purple": {
+        "200": {
+          "value": "#f5f2fd",
+          "type": "color"
+        },
+        "300": {
+          "value": "#d9c8f5",
+          "type": "color"
+        },
+        "500": {
+          "value": "#be9ff0",
+          "type": "color"
+        },
+        "600": {
+          "value": "#a275ea",
+          "type": "color"
+        },
+        "700": {
+          "value": "#874ce6",
+          "type": "color"
+        },
+        "color-base-purple-700": {
+          "value": "#874ce6",
+          "type": "color"
+        }
+      },
+      "blue": {
+        "200": {
+          "value": "#ecf5ff",
+          "type": "color"
+        },
+        "300": {
+          "value": "#d1e2ff",
+          "type": "color"
+        },
+        "500": {
+          "value": "#5292ff",
+          "type": "color"
+        },
+        "600": {
+          "value": "#1062fe",
+          "type": "color"
+        },
+        "700": {
+          "value": "#014ee1",
+          "type": "color"
+        }
+      },
+      "green": {
+        "200": {
+          "value": "#ebfef6",
+          "type": "color"
+        },
+        "300": {
+          "value": "#b4e9c5",
+          "type": "color"
+        },
+        "500": {
+          "value": "#6ac883",
+          "type": "color"
+        },
+        "600": {
+          "value": "#35a24f",
+          "type": "color"
+        },
+        "700": {
+          "value": "#007a1c",
+          "type": "color"
+        }
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    },
+    "background": {
+      "blur": {
+        "value": "#ffffffcc",
+        "type": "color",
+        "description": "For use in combination with Blur tokens."
+      },
+      "blur-neutral": {
+        "value": "#606981cc",
+        "type": "color",
+        "description": "For use in combination with Blur tokens."
+      },
+      "neutral": {
+        "value": "#f6f7f9",
+        "type": "color",
+        "description": "Secondary (alternate) background for pages or other components."
+      },
+      "page": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Primary background for pages."
+      },
+      "primary": {
+        "value": "#014ee1",
+        "type": "color",
+        "description": "Background for primary components."
+      },
+      "primary-highlighted": {
+        "value": "#1062fe",
+        "type": "color",
+        "description": "Highlighted background for primary components, for example, a hover state."
+      },
+      "primary-faded": {
+        "value": "#ecf5ff",
+        "type": "color",
+        "description": "Light background for primary components. Can be combined with Foreground / Primary."
+      },
+      "secondary": {
+        "value": "#874ce6",
+        "type": "color",
+        "description": "Background for components using a secondary (accent) color."
+      },
+      "secondary-highlighted": {
+        "value": "#a275ea",
+        "type": "color",
+        "description": "Highlighted background for components using a secondary color, for example, a hover state."
+      },
+      "secondary-faded": {
+        "value": "#f5f2fd",
+        "type": "color",
+        "description": "Light background for components used with secondary color. Can be combined with Foreground / Secondary."
+      },
+      "positive-highlighted": {
+        "value": "#35a24f",
+        "type": "color",
+        "description": "Highlighted background for positive components, for example, a hover state."
+      },
+      "positive-faded": {
+        "value": "#ebfef6",
+        "type": "color",
+        "description": "Light background for components used with a positive semantic meaning. Can be combined with Foreground / Positive."
+      },
+      "positive": {
+        "value": "#007a1c",
+        "type": "color",
+        "description": "Background for components used with a positive semantic meaning."
+      },
+      "color-background-secondary": {
+        "value": "{color.base.purple.color-base-purple-700}",
+        "type": "color"
+      }
+    },
+    "foreground": {
+      "neutral": {
+        "value": "#000000",
+        "type": "color",
+        "description": "Neutral foreground color. Use for icons and text."
+      },
+      "neutral-faded": {
+        "value": "#606981",
+        "type": "color",
+        "description": "Subtle foreground color. Use for secondary or placeholder text."
+      },
+      "primary": {
+        "value": "#014ee1",
+        "type": "color",
+        "description": "Primary foreground color. Use for primary components and text, such as links."
+      },
+      "secondary": {
+        "value": "#874ce6",
+        "type": "color",
+        "description": "Primary foreground color. Use for accent components and text."
+      },
+      "positive": {
+        "value": "#007a1c",
+        "type": "color",
+        "description": "Positive foreground color. Use for positive components and text (i.e. Success message)"
+      },
+      "disabled": {
+        "value": "#c6ccdb",
+        "type": "color",
+        "description": "Use for disabled foreground components and text."
+      }
+    },
+    "border": {
+      "neutral": {
+        "value": "#e6e8ef",
+        "type": "color",
+        "description": "Default border used for outlining elements."
+      },
+      "focus": {
+        "value": "#5292ff",
+        "type": "color",
+        "description": "Border color for focus states."
+      },
+      "primary": {
+        "value": "#014ee1",
+        "type": "color",
+        "description": "Primary border color."
+      },
+      "primary-faded": {
+        "value": "#d1e2ff",
+        "type": "color",
+        "description": "Subtle primary border color."
+      },
+      "positive": {
+        "value": "#007a1c",
+        "type": "color",
+        "description": "Positive border color."
+      },
+      "positive-faded": {
+        "value": "#b4e9c5",
+        "type": "color",
+        "description": "Subtle positive border color."
+      },
+      "secondary-faded": {
+        "value": "#d9c8f5",
+        "type": "color",
+        "description": "Secondary positive border color."
+      },
+      "secondary": {
+        "value": "#874ce6",
+        "type": "color",
+        "description": "Secondary border color."
+      }
+    }
+  }
+}

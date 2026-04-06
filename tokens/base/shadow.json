@@ -1,0 +1,24 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "shadow": {
+    "shadow": {
+      "raised": {
+        "value": "0px 1px 3px -1px #14171f0f, 0px 2px 3px -3px #14171f1a",
+        "type": "shadow"
+      },
+      "raised_1": {
+        "value": "0px 1px 3px -1px #14171f0f, 0px 2px 3px -3px #14171f1a",
+        "type": "shadow"
+      },
+      "overlay": {
+        "value": "0px 15px 25px 0px #14171f12, 0px 5px 10px 0px #14171f0d",
+        "type": "shadow"
+      },
+      "raised_2": {
+        "value": "0px 1px 3px -1px #14171f0f, 0px 2px 3px -3px #14171f1a",
+        "type": "shadow",
+        "description": "Use for actionable elements, such as buttons, etc."
+      }
+    }
+  }
+}
